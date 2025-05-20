@@ -1,8 +1,7 @@
 ---
-title: "Song 1"
-description: ""
-pubDate: ""
-heroImage: ""
+title: "Song name here"
+description: "song 2"
+
 ---
 
 Verse 1
